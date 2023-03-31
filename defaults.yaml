@@ -1,0 +1,7 @@
+data-dir: .
+filters:
+- filters/newpage.lua
+input-files:
+- src/hello.md
+output-file: out/hello.pdf
+standalone: true
