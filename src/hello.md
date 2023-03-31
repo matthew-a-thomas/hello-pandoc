@@ -15,7 +15,6 @@ abstract: |
 
   It is very abstract.
 
-template: foo.bar
 toc: true
 include-before: |
   \newpage
